@@ -1,0 +1,458 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=latex 2008.8.22)  23 JUL 2010 16:08
+entering extended mode
+ %&-line parsing enabled.
+**space_time_correlation.tex
+(./space_time_correlation.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, romanian, rus
+sian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish, ukenglis
+h, ukrainian, uppersorbian, welsh, loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen119
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen120
+\subfiglabelskip=\skip47
+\c@subfigure=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@lotdepth=\count94
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2008/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+)
+(./space_time_correlation.aux
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N1' multiply defined.
+
+
+LaTeX Warning: Label `fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N2' multiply defined.
+
+
+LaTeX Warning: Label `fig:N3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:N3' multiply defined.
+
+)
+\openout1 = `space_time_correlation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.69997> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.5> on input line 20.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 20.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+ [1
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 54.
+ [2]
+File: tagfieldpicture.eps Graphic file (type eps)
+
+<tagfieldpicture.eps>
+File: path1.eps Graphic file (type eps)
+ <path1.eps>
+File: path2.eps Graphic file (type eps)
+ <path2.eps>
+File: path3.eps Graphic file (type eps)
+ <path3.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+File: path1_error.eps Graphic file (type eps)
+
+<path1_error.eps>
+File: path2_error.eps Graphic file (type eps)
+ <path2_error.eps>
+File: path3_error.eps Graphic file (type eps)
+ <path3_error.eps>
+File: path1_change.eps Graphic file (type eps)
+ <path1_change.eps>
+File: path2_change.eps Graphic file (type eps)
+
+<path2_change.eps>
+File: path3_change.eps Graphic file (type eps)
+ <path3_change.eps>
+File: old_to_new_path1_rf270.eps Graphic file (type eps)
+ <old_to_new_path1_rf270.eps>
+File: old_to_new_path2_rf270.eps Graphic file (type eps)
+
+<old_to_new_path2_rf270.eps>
+File: old_to_new_path3_rf270.eps Graphic file (type eps)
+ <old_to_new_path3_rf270.eps>
+File: old_to_centroid_path1_rf250.eps Graphic file (type eps)
+
+<old_to_centroid_path1_rf250.eps>
+File: old_to_centroid_path2_rf250.eps Graphic file (type eps)
+ <old_to_centroid_path2_rf250.eps>
+File: old_to_centroid_path3_rf250.eps Graphic file (type eps)
+
+<old_to_centroid_path3_rf250.eps>
+File: old_to_centroid_path1_rf270.eps Graphic file (type eps)
+ <old_to_centroid_path1_rf270.eps>
+File: old_to_centroid_path2_rf270.eps Graphic file (type eps)
+
+<old_to_centroid_path2_rf270.eps>
+File: old_to_centroid_path3_rf270.eps Graphic file (type eps)
+ <old_to_centroid_path3_rf270.eps>
+File: old_to_centroid_path1_rf290.eps Graphic file (type eps)
+
+<old_to_centroid_path1_rf290.eps>
+File: old_to_centroid_path2_rf290.eps Graphic file (type eps)
+ <old_to_centroid_path2_rf290.eps>
+File: old_to_centroid_path3_rf290.eps Graphic file (type eps)
+
+<old_to_centroid_path3_rf290.eps>
+File: all_to_new_path1_rf290.eps Graphic file (type eps)
+ <all_to_new_path1_rf290.eps>
+File: all_to_new_path2_rf290.eps Graphic file (type eps)
+
+<all_to_new_path2_rf290.eps>
+File: all_to_new_path3_rf290.eps Graphic file (type eps)
+ <all_to_new_path3_rf290.eps>
+File: all_to_centroid_path1_rf290.eps Graphic file (type eps)
+
+<all_to_centroid_path1_rf290.eps>
+File: all_to_centroid_path2_rf290.eps Graphic file (type eps)
+ <all_to_centroid_path2_rf290.eps>
+File: all_to_centroid_path3_rf290.eps Graphic file (type eps)
+
+<all_to_centroid_path3_rf290.eps>
+File: path1_searched_area.eps Graphic file (type eps)
+ <path1_searched_area.eps>
+File: path2_searched_area.eps Graphic file (type eps)
+
+<path2_searched_area.eps>
+File: path3_searched_area.eps Graphic file (type eps)
+ <path3_searched_area.eps> [4]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[]\OT1/ptm/m/n/8 J. Bur-nell, ``Texas Turns to RFID for Emer-gency Evac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/ptm/m/n/8 u-a-tion Sys-tem," in \OT1/ptm/m/it/8 RFID Up-date\OT1/ptm/m/n/8
+ . [On-line]. Avail-able:
+ []
+
+Missing character: There is no Þ in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[]\OT1/ptm/m/n/8 C. Swed-berg, ``Search Teams Put RFID to the Res-cue to
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 218--219
+\OT1/ptm/m/n/8 Help Find the Miss-ing," in \OT1/ptm/m/it/8 RFID Jour-nal\OT1/pt
+m/m/n/8 . [On-line]. Avail-able:
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5] (./space_time_correlation.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1525 strings out of 493887
+ 24997 string characters out of 1151122
+ 84883 words of memory out of 3000000
+ 4804 multiletter control sequences out of 10000+50000
+ 31370 words of font info for 74 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 27i,9n,24p,2002b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on space_time_correlation.dvi (5 pages, 43116 bytes).
